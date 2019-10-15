@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+
+<ScrollPane xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="podstawySceneBuildera.QuizController">
+   <content>
+      <Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="2300.0" prefWidth="700.0">
+         <children>
+            <Label layoutX="37.0" layoutY="20.0" text="Witaj w quizie historycznym! Składa się on z 10 pytań. Za każdą poprawną odpowiedź otrzymasz 1 punkt. Powodzenia!" wrapText="true" />
+            <VBox layoutX="25.0" layoutY="49.0" prefHeight="200.0" prefWidth="600.0" spacing="10.0">
+               <children>
+                  <Label text="1. W którym roku miała miejsce bitwa pod Grunwaldem?" />
+                  <Button fx:id="button1A" mnemonicParsing="false" onAction="#dobraOdp1" text="A. 1410" />
+                  <Button fx:id="button1B" mnemonicParsing="false" onAction="#złaOdp1" text="B. 1415" />
+                  <Button fx:id="button1C" mnemonicParsing="false" onAction="#złaOdp1" text="C. 1412" />
+                  <Button fx:id="button1D" mnemonicParsing="false" onAction="#złaOdp1" text="D. 1405" />
+                  <Label fx:id="label1" text="Twoja odpowiedź jest:" />
+               </children>
+            </VBox>
+            <VBox layoutX="25.0" layoutY="249.0" prefHeight="200.0" prefWidth="600.0" spacing="10.0">
+               <children>
+                  <Label text="2. W którym roku miał miejsce chrzest Polski?" />
+                  <Button fx:id="button2A" mnemonicParsing="false" onAction="#złaOdp2" text="A. 996" />
+                  <Button fx:id="button2B" mnemonicParsing="false" onAction="#złaOdp2" text="B. 956" />
+                  <Button fx:id="button2C" mnemonicParsing="false" onAction="#dobraOdp2" text="C. 966" />
+                  <Button fx:id="button2D" mnemonicParsing="false" onAction="#złaOdp2" text="D. 1000" />
+                  <Label fx:id="label2" text="Twoja odpowiedź jest:" />
+               </children>
+            </VBox>
+            <VBox layoutX="25.0" layoutY="449.0" prefHeight="200.0" prefWidth="600.0" spacing="10.0">
+               <children>
+                  <Label text="3. Kto był pierwszym królem Polski?" />
+                  <Button fx:id="button3A" mnemonicParsing="false" onAction="#dobraOdp3" text="A. Bolesław I Chrobry" />
+                  <Button fx:id="button3B" mnemonicParsing="false" onAction="#złaOdp3" text="B. Mieszko I" />
+                  <Button fx:id="button3C" mnemonicParsing="false" onAction="#złaOdp3" text="C. Mieszko II" />
+                  <Button fx:id="button3D" mnemonicParsing="false" onAction="#złaOdp3" text="D. Bolesław III Krzywousty " />
+                  <Label fx:id="label3" text="Twoja odpowiedź jest:" />
+               </children>
+            </VBox>
+            <VBox layoutX="25.0" layoutY="649.0" prefHeight="200.0" prefWidth="600.0" spacing="10.0">
+               <children>
+                  <Label text="4. W którym roku Polska odzyskała niepodległość?" />
+                  <Button fx:id="button4A" mnemonicParsing="false" onAction="#złaOdp4" text="A. 1919" />
+                  <Button fx:id="button4B" mnemonicParsing="false" onAction="#złaOdp4" text="B. 1916" />
+                  <Button fx:id="button4C" mnemonicParsing="false" onAction="#złaOdp4" text="C. 1920" />
+                  <Button fx:id="button4D" mnemonicParsing="false" onAction="#dobraOdp4" text="D. 1918" />
+                  <Label fx:id="label4" text="Twoja odpowiedź jest:" />
+               </children>
+            </VBox>
+            <VBox layoutX="25.0" layoutY="849.0" prefHeight="200.0" prefWidth="600.0" spacing="10.0">
+               <children>
+                  <Label text="5. Jakiego polskiego króla próbował zabić Michał Piekarski podczas nieudanego zamachu?" />
+                  <Button fx:id="button5A" mnemonicParsing="false" onAction="#złaOdp5" text="A. Władysława II Jagiełłę" />
+                  <Button fx:id="button5B" mnemonicParsing="false" onAction="#dobraOdp5" text="B. Zygmunta III Wazę" />
+                  <Button fx:id="button5C" mnemonicParsing="false" onAction="#złaOdp5" text="C. Zygmunta I Starego" />
+                  <Button fx:id="button5D" mnemonicParsing="false" onAction="#złaOdp5" text="D. Zygmunta II Augusta" />
+                  <Label fx:id="label5" text="Twoja odpowiedź jest:" />
+               </children>
+            </VBox>
+            <VBox layoutX="25.0" layoutY="1049.0" prefHeight="200.0" prefWidth="600.0" spacing="10.0">
+               <children>
+                  <Label text="6. Który z królów polskich panował najdłużej?" />
+                  <Button fx:id="button6A" mnemonicParsing="false" onAction="#złaOdp6" text="A. Zygmunt I Stary" />
+                  <Button fx:id="button6B" mnemonicParsing="false" onAction="#dobraOdp6" text="B. Władysław II Jagiełło" />
+                  <Button fx:id="button6C" mnemonicParsing="false" onAction="#złaOdp6" text="C. Zygmunt III Waza" />
+                  <Button fx:id="button6D" mnemonicParsing="false" onAction="#złaOdp6" text="D. Stanisław August Poniatowski" />
+                  <Label fx:id="label6" text="Twoja odpowiedź jest:" />
+               </children>
+            </VBox>
+            <VBox layoutX="25.0" layoutY="1249.0" prefHeight="200.0" prefWidth="600.0" spacing="10.0">
+               <children>
+                  <Label text="7. W jakich latach miały miejsce trzy rozbiory Polski?" />
+                  <Button fx:id="button7A" mnemonicParsing="false" onAction="#złaOdp7" text="A. 1772, 1791, 1795" />
+                  <Button fx:id="button7B" mnemonicParsing="false" onAction="#złaOdp7" text="B. 1773, 1792, 1794" />
+                  <Button fx:id="button7C" mnemonicParsing="false" onAction="#dobraOdp7" text="C. 1772, 1793, 1795 " />
+                  <Button fx:id="button7D" mnemonicParsing="false" onAction="#złaOdp7" text="D. 1774, 1793, 1795" />
+                  <Label fx:id="label7" text="Twoja odpowiedź jest:" />
+               </children>
+            </VBox>
+            <VBox layoutX="25.0" layoutY="1449.0" prefHeight="200.0" prefWidth="600.0" spacing="10.0">
+               <children>
+                  <Label text="8. Jaka była pora roku podczas Odsieczy Wiedeńskiej w 1683 roku?" />
+                  <Button fx:id="button8A" mnemonicParsing="false" onAction="#złaOdp8" text="A. Jesień" />
+                  <Button fx:id="button8B" mnemonicParsing="false" onAction="#złaOdp8" text="B. Zima" />
+                  <Button fx:id="button8C" mnemonicParsing="false" onAction="#złaOdp8" text="C. Wiosna" />
+                  <Button fx:id="button8D" mnemonicParsing="false" onAction="#dobraOdp8" text="D. Lato" />
+                  <Label fx:id="label8" text="Twoja odpowiedź jest:" />
+               </children>
+            </VBox>
+            <VBox layoutX="25.0" layoutY="1649.0" prefHeight="200.0" prefWidth="600.0" spacing="10.0">
+               <children>
+                  <Label text="9. Kto był pierwszym elekcyjnym królem Polski?" />
+                  <Button fx:id="button9A" mnemonicParsing="false" onAction="#złaOdp9" text="A. Stefan Batory" />
+                  <Button fx:id="button9B" mnemonicParsing="false" onAction="#złaOdp9" text="B. Michał Korybut Wiśniowiecki" />
+                  <Button fx:id="button9C" mnemonicParsing="false" onAction="#złaOdp9" text="C. Jan III Sobieski" />
+                  <Button fx:id="button9D" mnemonicParsing="false" onAction="#dobraOdp9" text="D. Henryk Walezy" />
+                  <Label fx:id="label9" text="Twoja odpowiedź jest:" />
+               </children>
+            </VBox>
+            <VBox layoutX="25.0" layoutY="1849.0" prefHeight="200.0" prefWidth="600.0" spacing="10.0">
+               <children>
+                  <Label text="10. W którym roku Józef Wybicki napisał słowa &quot;Mazurka Dąbrowskiego&quot;?" />
+                  <Button fx:id="button10A" mnemonicParsing="false" onAction="#złaOdp10" text="A. 1795" />
+                  <Button fx:id="button10B" mnemonicParsing="false" onAction="#złaOdp10" text="B. 1796" />
+                  <Button fx:id="button10C" mnemonicParsing="false" onAction="#złaOdp10" text="C. 1798" />
+                  <Button fx:id="button10D" mnemonicParsing="false" onAction="#dobraOdp10" text="D. 1797" />
+                  <Label fx:id="label10" text="Twoja odpowiedź jest:" />
+               </children>
+            </VBox>
+            <VBox layoutX="25.0" layoutY="2082.0" prefHeight="200.0" prefWidth="600.0" spacing="10.0">
+               <children>
+                  <Button fx:id="zakończQuiz" mnemonicParsing="false" onAction="#wynikKońcowy" text="Zakończ quiz" />
+                  <Label fx:id="labelWynik" text="Twój wynik to:" />
+               </children>
+            </VBox>
+         </children>
+      </Pane>
+   </content>
+</ScrollPane>

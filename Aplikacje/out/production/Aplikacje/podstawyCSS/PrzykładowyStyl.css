@@ -1,0 +1,26 @@
+.button
+{
+    -fx-base: #ADFF2F;
+    -fx-font-size: 16;
+    -fx-padding: 16 10 16 10;
+
+}
+.text-field
+{
+    -fx-base: #FF9D00;
+    -fx-font-size: 16;
+    -fx-padding: 16 10 16 10;
+
+}
+.check-box
+{
+    -fx-base: #FF7878;
+    -fx-font-size: 16 ;
+    -fx-padding: 20px;
+}
+
+
+.grid-pane
+{
+    -fx-base:#9ECDFF;
+}

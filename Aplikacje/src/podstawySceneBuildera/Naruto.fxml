@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+
+<ScrollPane xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="podstawySceneBuildera.QuizNarutoController">
+    <content>
+        <Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="2300.0" prefWidth="700.0">
+            <children>
+                <Label layoutX="37.0" layoutY="20.0"
+                       text="Witaj w quizie o Naruto! Składa się on z 10 pytań. Za każdą poprawną odpowiedź otrzymasz 1 punkt. Uprzedzam, że quiz jest bardzo trudny. Powodzenia!" wrapText="true" />
+                <VBox layoutX="25.0" layoutY="49.0" prefHeight="200.0" prefWidth="600.0" spacing="10.0">
+                    <children>
+                        <Label text="1. Jak była przezywana matka Naruto?" />
+                        <Button fx:id="button1A" mnemonicParsing="false" onAction="#dobraOdp1"
+                                text="A. Czerwonokrwista Habanero" />
+                        <Button fx:id="button1B" mnemonicParsing="false" onAction="#złaOdp1" text="B. Ruda Habanero" />
+                        <Button fx:id="button1C" mnemonicParsing="false" onAction="#złaOdp1"
+                                text="C. Czerwonokrwista Habonero" />
+                        <Button fx:id="button1D" mnemonicParsing="false" onAction="#złaOdp1" text="D. Czerwony Błysk" />
+                        <Label fx:id="label1" text="Twoja odpowiedź jest:" />
+                    </children>
+                </VBox>
+                <VBox layoutX="25.0" layoutY="249.0" prefHeight="200.0" prefWidth="600.0" spacing="10.0">
+                    <children>
+                        <Label text="2. Jakiego dnia urodził się Naruto?" />
+                        <Button fx:id="button2A" mnemonicParsing="false" onAction="#złaOdp2" text="A. 1 czerwca" />
+                        <Button fx:id="button2B" mnemonicParsing="false" onAction="#złaOdp2" text="B. 15 lipca" />
+                        <Button fx:id="button2C" mnemonicParsing="false" onAction="#dobraOdp2"
+                                text="C. 10 października" />
+                        <Button fx:id="button2D" mnemonicParsing="false" onAction="#złaOdp2" text="D. 13 listopada" />
+                        <Label fx:id="label2" text="Twoja odpowiedź jest:" />
+                    </children>
+                </VBox>
+                <VBox layoutX="25.0" layoutY="449.0" prefHeight="200.0" prefWidth="600.0" spacing="10.0">
+                    <children>
+                        <Label text="3. Co oznacza &quot;Orochi&quot;?" />
+                        <Button fx:id="button3A" mnemonicParsing="false" onAction="#dobraOdp3" text="A. Wielki Wąż" />
+                        <Button fx:id="button3B" mnemonicParsing="false" onAction="#złaOdp3" text="B. Podstępny Wąż" />
+                        <Button fx:id="button3C" mnemonicParsing="false" onAction="#złaOdp3"
+                                text="C. Nic konkretnego" />
+                        <Button fx:id="button3D" mnemonicParsing="false" onAction="#złaOdp3" text="D. Wąż " />
+                        <Label fx:id="label3" text="Twoja odpowiedź jest:" />
+                    </children>
+                </VBox>
+                <VBox layoutX="25.0" layoutY="649.0" prefHeight="200.0" prefWidth="600.0" spacing="10.0">
+                    <children>
+                        <Label text="4. Jak ma na nazwisko Iruka?" />
+                        <Button fx:id="button4A" mnemonicParsing="false" onAction="#złaOdp4" text="A. Adenashi" />
+                        <Button fx:id="button4B" mnemonicParsing="false" onAction="#złaOdp4" text="B. Nishiguchi" />
+                        <Button fx:id="button4C" mnemonicParsing="false" onAction="#złaOdp4" text="C. Okubo" />
+                        <Button fx:id="button4D" mnemonicParsing="false" onAction="#dobraOdp4" text="D. Umino" />
+                        <Label fx:id="label4" text="Twoja odpowiedź jest:" />
+                    </children>
+                </VBox>
+                <VBox layoutX="25.0" layoutY="849.0" prefHeight="200.0" prefWidth="600.0" spacing="10.0">
+                    <children>
+                        <Label text="5. Z jakiego klanu wywodzi się Haku?" />
+                        <Button fx:id="button5A" mnemonicParsing="false" onAction="#złaOdp5" text="A. Kurita" />
+                        <Button fx:id="button5B" mnemonicParsing="false" onAction="#dobraOdp5" text="B. Yuki" />
+                        <Button fx:id="button5C" mnemonicParsing="false" onAction="#złaOdp5" text="C. Sato" />
+                        <Button fx:id="button5D" mnemonicParsing="false" onAction="#złaOdp5" text="D. Takemura" />
+                        <Label fx:id="label5" text="Twoja odpowiedź jest:" />
+                    </children>
+                </VBox>
+                <VBox layoutX="25.0" layoutY="1049.0" prefHeight="200.0" prefWidth="600.0" spacing="10.0">
+                    <children>
+                        <Label text="6. Co oznacza imię &quot;Zetsu&quot; ?" />
+                        <Button fx:id="button6A" mnemonicParsing="false" onAction="#złaOdp6" text="A. Śmierć" />
+                        <Button fx:id="button6B" mnemonicParsing="false" onAction="#dobraOdp6" text="B. Język" />
+                        <Button fx:id="button6C" mnemonicParsing="false" onAction="#złaOdp6" text="C. Biały" />
+                        <Button fx:id="button6D" mnemonicParsing="false" onAction="#złaOdp6" text="D. Usta" />
+                        <Label fx:id="label6" text="Twoja odpowiedź jest:" />
+                    </children>
+                </VBox>
+                <VBox layoutX="25.0" layoutY="1249.0" prefHeight="200.0" prefWidth="600.0" spacing="10.0">
+                    <children>
+                        <Label text="7. Jak nazywa się kwiaciarnia rodziny Ino?" />
+                        <Button fx:id="button7A" mnemonicParsing="false" onAction="#złaOdp7"
+                                text="A. Kwiaciarnia Yamanaka" />
+                        <Button fx:id="button7B" mnemonicParsing="false" onAction="#złaOdp7" text="B. Piękny Zapach" />
+                        <Button fx:id="button7C" mnemonicParsing="false" onAction="#dobraOdp7"
+                                text="C. Kwiaty Yamanaki " />
+                        <Button fx:id="button7D" mnemonicParsing="false" onAction="#złaOdp7"
+                                text="D. Nazwa nie została podana" />
+                        <Label fx:id="label7" text="Twoja odpowiedź jest:" />
+                    </children>
+                </VBox>
+                <VBox layoutX="25.0" layoutY="1449.0" prefHeight="200.0" prefWidth="600.0" spacing="10.0">
+                    <children>
+                        <Label text="8. Jak ma na nazwisko Udon?" />
+                        <Button fx:id="button8A" mnemonicParsing="false" onAction="#dobraOdp8" text="A. Ise" />
+                        <Button fx:id="button8B" mnemonicParsing="false" onAction="#złaOdp8" text="B. Iso" />
+                        <Button fx:id="button8C" mnemonicParsing="false" onAction="#złaOdp8" text="C. Watabe" />
+                        <Button fx:id="button8D" mnemonicParsing="false" onAction="#złaOdp8" text="D. Mizutani" />
+                        <Label fx:id="label8" text="Twoja odpowiedź jest:" />
+                    </children>
+                </VBox>
+                <VBox layoutX="25.0" layoutY="1649.0" prefHeight="200.0" prefWidth="600.0" spacing="10.0">
+                    <children>
+                        <Label text="9. Co oznacza znak na stroju Choji'ego (ma go na wszystkich strojach)?" />
+                        <Button fx:id="button9A" mnemonicParsing="false" onAction="#złaOdp9" text="A. Czipsy" />
+                        <Button fx:id="button9B" mnemonicParsing="false" onAction="#złaOdp9" text="B. Motyl" />
+                        <Button fx:id="button9C" mnemonicParsing="false" onAction="#złaOdp9" text="C. Akimichi" />
+                        <Button fx:id="button9D" mnemonicParsing="false" onAction="#dobraOdp9" text="D. Jedzenie" />
+                        <Label fx:id="label9" text="Twoja odpowiedź jest:" />
+                    </children>
+                </VBox>
+                <VBox layoutX="25.0" layoutY="1849.0" prefHeight="200.0" prefWidth="600.0" spacing="10.0">
+                    <children>
+                        <Label
+                                text="10. Jak nazywał się przeciwnik Sasuke w jego pierwszej walce egzaminu na chunina?" />
+                        <Button fx:id="button10A" mnemonicParsing="false" onAction="#złaOdp10"
+                                text="A. Shinji Harimoto" />
+                        <Button fx:id="button10B" mnemonicParsing="false" onAction="#złaOdp10" text="B. Shinji Abumi" />
+                        <Button fx:id="button10C" mnemonicParsing="false" onAction="#złaOdp10"
+                                text="C. Takefusa Takumo" />
+                        <Button fx:id="button10D" mnemonicParsing="false" onAction="#dobraOdp10"
+                                text="D. Akado Yoroi" />
+                        <Label fx:id="label10" text="Twoja odpowiedź jest:" />
+                    </children>
+                </VBox>
+                <VBox layoutX="25.0" layoutY="2082.0" prefHeight="200.0" prefWidth="600.0" spacing="10.0">
+                    <children>
+                        <Button fx:id="zakończQuiz" mnemonicParsing="false" onAction="#wynikKońcowy" text="Zakończ quiz" />
+                        <Label fx:id="labelWynik" text="Twój wynik to:" />
+                    </children>
+                </VBox>
+            </children>
+        </Pane>
+    </content>
+</ScrollPane>
+
