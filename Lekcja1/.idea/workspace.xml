@@ -4,7 +4,71 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21de3f43-ce0d-43ab-9095-75852a8da5d3" name="Default Changelist" comment="" />
+    <list default="true" id="21de3f43-ce0d-43ab-9095-75852a8da5d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/kul/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/kul/InvoiceEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/kul/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/podstawyJęzykaJava/LottoUpgrade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samouczekProgramisty/ArraysExercises.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samouczekProgramisty/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samouczekProgramisty/Klasa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samouczekProgramisty/Loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samouczekProgramisty/Man.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samouczekProgramisty/MyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samouczekProgramisty/Range.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samouczekProgramisty/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samouczekProgramisty/Szachy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samouczekProgramisty/Temperatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samouczekProgramisty/TemperaturaPrzelicznik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samouczekProgramisty/ZadaniaMetody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lekcja1/Lekcja1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lekcja1/Lekcja1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lekcja1/pakietA/Gra.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lekcja1/pakietA/Gra.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lekcja1/pakietA/Hours.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lekcja1/pakietA/Hours.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lekcja1/pakietA/KlasaA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lekcja1/pakietA/KlasaA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lekcja1/pakietA/PetRock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lekcja1/pakietA/PetRock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lekcja1/pakietA/Pierwiastek.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lekcja1/pakietA/Pierwiastek.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lekcja1/pakietA/Seconds.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lekcja1/pakietA/Seconds.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lekcja1/pakietA/Tablicowa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lekcja1/pakietA/Tablicowa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lekcja1/pakietA/Test$Computation$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lekcja1/pakietA/Test$Computation$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lekcja1/pakietA/Test$Computation$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lekcja1/pakietA/Test$Computation$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lekcja1/pakietA/Test$Computation$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lekcja1/pakietA/Test$Computation$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lekcja1/pakietA/Test$Computation$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lekcja1/pakietA/Test$Computation$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lekcja1/pakietA/Test$Computation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lekcja1/pakietA/Test$Computation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lekcja1/pakietA/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lekcja1/pakietA/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lekcja1/podstawyJezykaJava/Komentarze.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lekcja1/podstawyJezykaJava/Komentarze.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lekcja1/podstawyJęzykaJava/BMI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lekcja1/podstawyJęzykaJava/BMI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lekcja1/podstawyJęzykaJava/CiągFibonacciego.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lekcja1/podstawyJęzykaJava/CiągFibonacciego.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lekcja1/podstawyJęzykaJava/Człowiek.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lekcja1/podstawyJęzykaJava/Człowiek.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lekcja1/podstawyJęzykaJava/DodawanieIZakres.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lekcja1/podstawyJęzykaJava/DodawanieIZakres.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lekcja1/podstawyJęzykaJava/Etykieta.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lekcja1/podstawyJęzykaJava/Etykieta.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lekcja1/podstawyJęzykaJava/Eurojackpot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lekcja1/podstawyJęzykaJava/Eurojackpot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lekcja1/podstawyJęzykaJava/FabrykaProstokątów.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lekcja1/podstawyJęzykaJava/FabrykaProstokątów.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lekcja1/podstawyJęzykaJava/Human$EyeColour.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lekcja1/podstawyJęzykaJava/Human$EyeColour.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lekcja1/podstawyJęzykaJava/Human$HairColour.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lekcja1/podstawyJęzykaJava/Human$HairColour.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lekcja1/podstawyJęzykaJava/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lekcja1/podstawyJęzykaJava/Human.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lekcja1/podstawyJęzykaJava/LiczbyPierwsze.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lekcja1/podstawyJęzykaJava/LiczbyPierwsze.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lekcja1/podstawyJęzykaJava/Lotto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lekcja1/podstawyJęzykaJava/Lotto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lekcja1/podstawyJęzykaJava/Prostokąt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lekcja1/podstawyJęzykaJava/Prostokąt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lekcja1/podstawyJęzykaJava/PrzykładowaKlasa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lekcja1/podstawyJęzykaJava/PrzykładowaKlasa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lekcja1/podstawyJęzykaJava/Robot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lekcja1/podstawyJęzykaJava/Robot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lekcja1/podstawyJęzykaJava/Srednia.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lekcja1/podstawyJęzykaJava/Srednia.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lekcja1/podstawyJęzykaJava/Tablice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lekcja1/podstawyJęzykaJava/Tablice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lekcja1/podstawyJęzykaJava/TwójWiek.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lekcja1/podstawyJęzykaJava/TwójWiek.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lekcja1/podstawyJęzykaJava/WyrażeniaRegularne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lekcja1/podstawyJęzykaJava/WyrażeniaRegularne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lekcja1/podstawyJęzykaJava/ZapisOdczytPliku.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lekcja1/podstawyJęzykaJava/ZapisOdczytPliku.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lekcja1/podstawyJęzykaJava/ZwracamImię.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lekcja1/podstawyJęzykaJava/ZwracamImię.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lekcja1/samouczekProgramisty/Klasa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lekcja1/samouczekProgramisty/Klasa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lekcja1/samouczekProgramisty/Man.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lekcja1/samouczekProgramisty/Man.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lekcja1/samouczekProgramisty/Range.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lekcja1/samouczekProgramisty/Range.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lekcja1/samouczekProgramisty/Szachy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lekcja1/samouczekProgramisty/Szachy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lekcja1/samouczekProgramisty/Temperatura.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lekcja1/samouczekProgramisty/Temperatura.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lekcja1/samouczekProgramisty/TemperaturaPrzelicznik.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lekcja1/samouczekProgramisty/TemperaturaPrzelicznik.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lekcja1/samouczekProgramisty/ZadaniaMetody.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lekcja1/samouczekProgramisty/ZadaniaMetody.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/podstawyJęzykaJava/Tablice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/podstawyJęzykaJava/Tablice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/samouczekProgramisty/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/samouczekProgramisty/Rectangle.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,12 +87,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/samouczekProgramisty" />
+  </component>
   <component name="ProjectId" id="1RsLrkP2rQ3NORyl3z3LsfAVFlq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
@@ -62,76 +131,76 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LiczbyPierwsze">
+  <component name="RunManager" selected="Application.Exercise2">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BMI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="podstawyJęzykaJava.BMI" />
-      <module name="Lekcja1" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="podstawyJęzykaJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CiągFibonacciego" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="podstawyJęzykaJava.CiągFibonacciego" />
-      <module name="Lekcja1" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="podstawyJęzykaJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LiczbyPierwsze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="podstawyJęzykaJava.LiczbyPierwsze" />
-      <module name="Lekcja1" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="podstawyJęzykaJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lotto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="podstawyJęzykaJava.Lotto" />
-      <module name="Lekcja1" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="podstawyJęzykaJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ZadaniaMetody" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="samouczekProgramisty.ZadaniaMetody" />
+    <configuration name="ArraysExercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="samouczekProgramisty.ArraysExercises" />
       <module name="Lekcja1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="samouczekProgramisty.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="samouczekProgramisty.Exercise2" />
+      <module name="Lekcja1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="samouczekProgramisty.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="samouczekProgramisty.Loops" />
+      <module name="Lekcja1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="samouczekProgramisty.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LottoUpgrade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="podstawyJęzykaJava.LottoUpgrade" />
+      <module name="Lekcja1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="podstawyJęzykaJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.kul.Main" />
+      <module name="Lekcja1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.kul.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,11 +241,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LiczbyPierwsze" />
-        <item itemvalue="Application.CiągFibonacciego" />
-        <item itemvalue="Application.BMI" />
-        <item itemvalue="Application.Lotto" />
-        <item itemvalue="Application.ZadaniaMetody" />
+        <item itemvalue="Application.Exercise2" />
+        <item itemvalue="Application.LottoUpgrade" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Loops" />
+        <item itemvalue="Application.ArraysExercises" />
       </list>
     </recent_temporary>
   </component>
@@ -224,6 +293,19 @@
     <history-entry file="DodawanieIZakresTest - 2019.09.26 at 14h 10m 05s.xml">
       <configuration name="DodawanieIZakresTest" configurationId="JUnit" />
     </history-entry>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="masterDetails">
     <states>
